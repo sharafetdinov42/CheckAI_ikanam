@@ -20,10 +20,10 @@
 
 ## Стэк технологий
 Мы использовали различные библиотеки глубокого обучения:
-- **PyTorch**
+- ![image](https://github.com/sharafetdinov42/CheckAI_ikanam/assets/148991752/5e241f77-bca5-4c06-a8cd-e7c8c656d016) **PyTorch**
 - **Transformers**
 
 А так же различные предобученные **LLM**:
 - **RuGPT3-Large**
 - **LLaMA**
-- ![image](https://github.com/sharafetdinov42/CheckAI_ikanam/assets/148991752/fe57bc23-1f58-4877-9c7d-d2425e5519c5) **Mistral 7B**
+- **Mistral 7B**
