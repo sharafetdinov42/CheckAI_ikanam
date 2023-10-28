@@ -20,7 +20,7 @@
 
 ## Стэк технологий
 Мы использовали различные библиотеки глубокого обучения:
-- <img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://i.ytimg.com/vi/0MVyXEYMbgc/hqdefault.jpg)" width="200" /> **PyTorch**
+- <img src="https://i.ytimg.com/vi/0MVyXEYMbgc/hqdefault.jpg" width="200" /> **PyTorch**
 - **Transformers**
 
 А так же различные предобученные **LLM**:
