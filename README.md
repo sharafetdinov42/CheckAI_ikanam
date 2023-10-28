@@ -1,5 +1,5 @@
-![image](https://github.com/sharafetdinov42/CheckAI_ikanam/assets/148991752/62f4f059-6621-4683-a8ef-09985f45f0c8)# Merezhkovsky
-
+# Merezhkovsky
+![image](https://github.com/sharafetdinov42/CheckAI_ikanam/assets/148991752/4ab56a79-735a-433d-b17e-ef635da03f4e)
 ## Merezhkovsky – нейросеть для генерации оригинальных научных статей 
 
 ### Что успели сделать за 30+ часов!
@@ -26,4 +26,4 @@
 А так же различные предобученные **LLM**:
 - **RuGPT3-Large**
 - **LLaMA**
-- ![image](https://github.com/sharafetdinov42/CheckAI_ikanam/assets/148991752/4ab56a79-735a-433d-b17e-ef635da03f4e) **Mistral 7B**
+- ![image](https://github.com/sharafetdinov42/CheckAI_ikanam/assets/148991752/fe57bc23-1f58-4877-9c7d-d2425e5519c5) **Mistral 7B**
