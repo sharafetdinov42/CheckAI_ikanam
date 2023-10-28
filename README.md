@@ -20,8 +20,8 @@
 
 ## Стэк технологий
 Мы использовали различные библиотеки глубокого обучения:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="50" /> **PyTorch**
-- **Transformers**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="160" />
+- <img src="https://pybuddy.com/media/transformers-github-2022.png" width="160" />
 
 А так же различные предобученные **LLM**:
 - **RuGPT3-Large**
