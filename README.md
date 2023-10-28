@@ -1,4 +1,4 @@
-# CheckAI_ikanam
+# Merezhkovsky
 
 ## Merezhkovsky – нейросеть для генерации оригинальных научных статей 
 
