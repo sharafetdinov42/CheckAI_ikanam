@@ -1,5 +1,4 @@
 # Merezhkovsky
-![image](https://github.com/sharafetdinov42/CheckAI_ikanam/assets/148991752/4ab56a79-735a-433d-b17e-ef635da03f4e)
 ## Merezhkovsky – нейросеть для генерации оригинальных научных статей 
 
 ### Что успели сделать за 30+ часов!
